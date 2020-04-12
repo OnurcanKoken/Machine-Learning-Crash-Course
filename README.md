@@ -3,3 +3,7 @@ Machine Learning Crash Course with TensorFlow APIs | Google Developers | Introdu
 
 I will change the codes a bit, you can access the original ones and the course here;
 https://developers.google.com/machine-learning/crash-course
+
+Pandas
+NumPy
+Matplotlib
